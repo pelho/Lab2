@@ -1,0 +1,15 @@
+* {
+    transition: all .2s;
+}
+.clear{
+    clear:both;
+}
+body {
+    background: cornsilk;
+}
+
+.wrapper {
+    width: 940px;
+    margin: 50px auto;
+}
+
